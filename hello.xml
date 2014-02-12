@@ -5,6 +5,10 @@
   <firstname>First</firstname>
   <lastname>Last</lastname>
  </name>
+ <name>
+ 	<firstname>Hello</firstname>
+ 	<firstname>World</firstname>
+ </name>
  <job>Singer</job>
  <gender>Male</gender>
 </person>
