@@ -11,6 +11,9 @@
    </title>
   </head>
   <body>
+    <h1>
+      <xsl:value-of select="descendant::firstname" />
+    </h1>
    <xsl:value-of select="descendant::firstname" />
    <xsl:text> </xsl:text>
    <xsl:value-of select="descendant::lastname" />
