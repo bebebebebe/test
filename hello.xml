@@ -1,4 +1,10 @@
 <?xml version="1.0"?>
+<xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                src="jquery.js"
+                type="application/javascript"/>
+<xhtml:script xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                src="javascript.js"
+                type="application/javascript"/>
 <?xml-stylesheet href="hello.xsl" type="text/xsl"?>
 <person>
  <name>
