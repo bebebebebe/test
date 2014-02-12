@@ -2,8 +2,8 @@
 <?xml-stylesheet href="hello.xsl" type="text/xsl"?>
 <person>
  <name>
-  <firstname>Paul</firstname>
-  <lastname>McCartney</lastname>
+  <firstname>First</firstname>
+  <lastname>Last</lastname>
  </name>
  <job>Singer</job>
  <gender>Male</gender>
